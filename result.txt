@@ -1,0 +1,69 @@
+Processed Message: Need 100 grams for shipment tomorrow
+Sender IP: 192.168.1.25, Receiver IP: 203.0.113.78
+Blockchain Entry: {'block_id': 'dccaf91e199576c355747e6bf066f6571a661a69cdd49ebe591c3bb4fe305c99', 'data': {'sender_ip': '192.168.1.25', 'receiver_ip': '203.0.113.78', 'analysis': {'message': 'Need 100 grams for shipment tomorrow', 'keywords_detected': ['grams', 'shipment'], 'suspicion_level': 'high', 'flag_reason': 'Drug-related terms detected'}, 'timestamp': '2024-09-29T19:15:55.239927'}, 'timestamp': '2024-09-29T19:15:55.239927'}
+
+Processed Message: Can you bring me 50 grams of powder by Friday? Need it for the client.
+Sender IP: 192.168.1.25, Receiver IP: 203.0.113.78
+Blockchain Entry: {'block_id': '59650c143ca8af7cef5ac740d68bac37c4d70e35ffc35ab9a677fb198ef5dd06', 'data': {'sender_ip': '192.168.1.25', 'receiver_ip': '203.0.113.78', 'analysis': {'message': 'Can you bring me 50 grams of powder by Friday? Need it for the client.', 'keywords_detected': ['grams', 'powder'], 'suspicion_level': 'high', 'flag_reason': 'Drug-related terms detected'}, 'timestamp': '2024-09-29T19:15:56.531138'}, 'timestamp': '2024-09-29T19:15:56.531138'}
+
+Processed Message: The shipment is ready, I'll drop it at the usual spot tomorrow. Don't forget the cash.
+Sender IP: 192.168.1.25, Receiver IP: 203.0.113.78
+Blockchain Entry: {'block_id': '480b44271ca463e16e105381e492cb29dd8983419bd2b109d345a69624dbda95', 'data': {'sender_ip': '192.168.1.25', 'receiver_ip': '203.0.113.78', 'analysis': {'message': "The shipment is ready, I'll drop it at the usual spot tomorrow. Don't forget the cash.", 'keywords_detected': ['shipment', 'drop', 'cash'], 'suspicion_level': 'high', 'flag_reason': 'Drug-related terms detected'}, 'timestamp': '2024-09-29T19:15:58.370486'}, 'timestamp': '2024-09-29T19:15:58.370486'}
+
+Processed Message: Hey, can you pick up some groceries on your way home? We're out of milk .
+Sender IP: 192.168.1.25, Receiver IP: 203.0.113.78
+Blockchain Entry: {'block_id': '1c52ba2e127e2c938e053bb7b0be91f2f01cb4761b19327d47614739b66c8bb5', 'data': {'sender_ip': '192.168.1.25', 'receiver_ip': '203.0.113.78', 'analysis': {'message': "Hey, can you pick up some groceries on your way home? We're out of milk .", 'keywords_detected': [], 'suspicion_level': 'low', 'flag_reason': 'No suspicious terms detected'}, 'timestamp': '2024-09-29T19:15:59.815818'}, 'timestamp': '2024-09-29T19:15:59.817328'}
+
+Processed Message: Let's meet at the coffee shop at 5 PM to discuss the project details. See you there!
+Sender IP: 192.168.1.25, Receiver IP: 203.0.113.78
+Blockchain Entry: {'block_id': '03756e87525f4938d1251e5ea3c773a91bd08f4ef28fc96a2c32d8fc2dfe7d54', 'data': {'sender_ip': '192.168.1.25', 'receiver_ip': '203.0.113.78', 'analysis': {'message': "Let's meet at the coffee shop at 5 PM to discuss the project details. See you there!", 'keywords_detected': [], 'suspicion_level': 'low', 'flag_reason': 'No suspicious terms detected'}, 'timestamp': '2024-09-29T19:16:01.503327'}, 'timestamp': '2024-09-29T19:16:01.503327'}
+
+Processed Message: The package you ordered has been shipped and will arrive by the end of the week.
+Sender IP: 192.168.1.25, Receiver IP: 203.0.113.78
+Blockchain Entry: {'block_id': '6733896ccc83bdd171e2ba7f5a865a60afa48375d3ceb88b2365b956ea1b4521', 'data': {'sender_ip': '192.168.1.25', 'receiver_ip': '203.0.113.78', 'analysis': {'message': 'The package you ordered has been shipped and will arrive by the end of the week.', 'keywords_detected': [], 'suspicion_level': 'low', 'flag_reason': 'No suspicious terms detected'}, 'timestamp': '2024-09-29T19:16:03.168494'}, 'timestamp': '2024-09-29T19:16:03.168494'}
+
+Processed Message: ece0eeo 4G 11:30 PM 75% a)
+
+< Messages Unknown Details
+
+Can you sort me out
+bro?
+
+Got bud there?
+
+Can you deliver now?
+
+Sender IP: 192.168.1.26, Receiver IP: 203.0.114.79
+Blockchain Entry: {'block_id': 'e7da4c22af0bb0b39c7a608abbd856f812c5927e30e9b512895275754991bb7c', 'data': {'sender_ip': '192.168.1.26', 'receiver_ip': '203.0.114.79', 'analysis': {'message': 'ece0eeo 4G 11:30 PM 75% a)\n\n< Messages Unknown Details\n\nCan you sort me out\nbro?\n\nGot bud there?\n\nCan you deliver now?\n', 'keywords_detected': [], 'suspicion_level': 'low', 'flag_reason': 'No suspicious terms detected'}, 'timestamp': '2024-09-29T19:16:06.639329'}, 'timestamp': '2024-09-29T19:16:06.639329'}
+
+Processed Message: Are you still moving
+
+Your bio did a 360 lol
+
+Unless you have weed or know
+someone that does, I'm not
+
+Oe
+
+Today
+
+What
+
+Sender IP: 192.168.1.26, Receiver IP: 203.0.114.79
+Blockchain Entry: {'block_id': 'f5b2d3e4a2b08f28168aadeae4a14e391cddc2a8fbba07e2afae4b5d2ad9df49', 'data': {'sender_ip': '192.168.1.26', 'receiver_ip': '203.0.114.79', 'analysis': {'message': "Are you still moving\n\nYour bio did a 360 lol\n\nUnless you have weed or know\nsomeone that does, I'm not\n\nOe\n\nToday\n\nWhat\n", 'keywords_detected': ['weed'], 'suspicion_level': 'high', 'flag_reason': 'Drug-related terms detected'}, 'timestamp': '2024-09-29T19:16:09.224088'}, 'timestamp': '2024-09-29T19:16:09.224088'}
+
+Processed Message: Hey man! Any chance you have
+
+an extra bottle of rogaine laying
+around?
+
+Yes
+
+Can you spot me?
+| need my fix
+
+Lol! got u
+
+Sender IP: 192.168.1.26, Receiver IP: 203.0.114.79
+Blockchain Entry: {'block_id': '7134573e49f525f1d5072dbf023bfb635c821badb94edf35cdf255d6862eccfc', 'data': {'sender_ip': '192.168.1.26', 'receiver_ip': '203.0.114.79', 'analysis': {'message': 'Hey man! Any chance you have\n\nan extra bottle of rogaine laying\naround?\n\nYes\n\nCan you spot me?\n| need my fix\n\nLol! got u\n', 'keywords_detected': ['fix'], 'suspicion_level': 'high', 'flag_reason': 'Drug-related terms detected'}, 'timestamp': '2024-09-29T19:16:12.044290'}, 'timestamp': '2024-09-29T19:16:12.044290'}
+
