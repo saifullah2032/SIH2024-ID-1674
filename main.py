@@ -9,7 +9,7 @@ from datetime import datetime
 import result_writer
 import ip_tracker
 
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'YOUR_FILE_DIRECTORY'
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -115,7 +115,7 @@ message4="The package you ordered has been shipped and will arrive by the end of
 process_message(message=message4, sender_ip="192.168.1.25", receiver_ip="203.0.113.78")
 
 # Process all images in the specified folder
-process_all_images_in_folder("C:\\Users\\saifu\\Downloads\\SIH\\NCB", sender_ip="192.168.1.26", receiver_ip="203.0.114.79")
+process_all_images_in_folder("YOUR_FILE_DIRECTORY", receiver_ip="203.0.114.79")
 
 # output
 print("\nBlockchain Ledger:")
